@@ -7,6 +7,10 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
+/**
+ * Business logic is here
+ */
+
 @Service
 public class UserServiceImpl implements UserService {
     @Autowired
